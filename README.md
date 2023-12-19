@@ -136,3 +136,12 @@ Real-word text is often not in a format appropriate for analysis. Things like sp
 
 - [**Detailed guide**](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/) (Recommended)
 - [**Youtube Video**](https://www.youtube.com/watch?v=nxhCyeRR75Q), focusing more on post-cleanup steps like tokenization, stemming, and lemmatization
+
+### Graded Assignment
+
+This week's graded assignment has been released. Open [NN_using_PyTorch_(Graded).ipynb](https://colab.research.google.com/drive/1cKa6JQiwuZlvBwWkFlZQo7S8gWYDZe98) in Colaboratory, and save a copy of the notebook to your Drive.
+
+Download the pizza_vs_not.zip dataset, unzip and upload it to your Drive.
+
+Make sure that you save both the Colab Notebook and dataset folder to the same account.
+Submissions will be via Google Forms, the link will be shared later.
