@@ -7,7 +7,7 @@ In this project, we cover the essentials of Classical Machine Learning or the Pr
 ## Week-wise distribution of content
 
 1) Quick recap of Python, Introduction to pytorch and neural networks and NLP with word2vec, word embeddings, Distributional semantics
-2) Introduction to pytorch and neural networks, convolutional layers and pooling, building CNNs, and training them on dummy datasets
+2) Introduction to pytorch and neural networks, RNNs and building a sentiment analyser
 3) Text classification, Language Modeling Introducing attention(Transformer: Attention is All You Need) in encoder-decoders, building a transformer from scratch, Seq2Seq
 4) Transfer learning, replacing pre-trained word embeddings in GPT and BERT, and building and training a translator in pytorch from scratch
 
